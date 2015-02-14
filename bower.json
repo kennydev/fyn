@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "dependencies": {
+    "domReady": "=2.0.1",
+    "requirejs": "=2.1.15",
+    "modernizr": "=2.8.3",
+    "jquery": "=2.1.3",
+    "lodash": "=3.0.0",
+    "gumby": "GumbyFramework/Gumby#master",
+    "font-awesome": "=4.3.0",
+    "weather-icons": "=1.3.2",
+    "normalize-css": "~3.0.2",
+    "sass-list-maps": "=1.0.0",
+    "modular-scale": "=2.0.5",
+    "compass-mixins": "=1.0.2",
+    "jquery-placeholder": "=2.1.0",
+    "ScrollMagic": "~1.3.0"
+  }
+}

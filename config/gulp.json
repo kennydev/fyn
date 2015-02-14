@@ -1,0 +1,77 @@
+{
+  "dirs": {
+    "tasks": "./lib/gulp/tasks/",
+    "tmp": "tmp/gulp",
+    "app": "app",
+    "build": "public/assets",
+    "dist": "dist",
+    "styles": "assets/stylesheets",
+    "scripts": "assets/javascripts",
+    "views": "views",
+    "images": "assets/images",
+    "fonts": "assets/fonts",
+    "public": "public",
+    "vendor": "lib/vendor",
+    "lib": "lib",
+    "bower_components": "vendor/bower_components"
+  },
+  "sass": {
+    "compiler": "libsass",
+    "default": "**/*.scss",
+    "loadpaths": ["./app/assets/stylesheets", "./vendor/bower_components", "./lib/vendor/assets/stylesheets", "./lib/assets/stylesheets"],
+    "styles": [
+      {"name": "fyn-dev", "main": "fyn/fyn-dev.scss", "sources": "fyn/**/*.scss"}
+    ]
+  },
+  "libsass": {
+    "imagePath": "/assets",
+    "outputStyle": "nested",
+    "sourceComments": "normal",
+    "precision:": 10,
+    "includePaths": ["./vendor/bower_components/compass-mixins/lib", "./vendor/bower_components/modular-scale/stylesheets"]
+  },
+  "rubysass": {
+    "bundleExec": false,
+    "sourcemap": false,
+    "style": "nested",
+    "lineNumbers": true,
+    "precision:": 10,
+    "compass": true,
+    "require": ["modular-scale"]
+  },
+  "sprites": [
+    "404"
+  ],
+  "autoprefixer": {
+    "default": ["> 1%", "last 2 versions", "Firefox ESR", "Opera 12.1"]
+  },
+  "browser": {
+    "port": 9000,
+    "open": false,
+    "host": "www.lvh.me"
+  },
+  "browserProxy": {
+    "proxy": "www.lvh.me:3005"
+  },
+  "browserServer": {
+    "directory": true,
+    "proxy" : false,
+    "proxyOptions": {
+      "target": "http://www.lvh.me:3005/api",
+      "apiPrefix": "/api"
+    }
+  },
+  "handlebars": {
+    "templates_dir": "app/templates",
+    "output_file": "main.js"
+  },
+  "requirejs": {
+    "wrapShim": true,
+    "name": "fyn-config",
+    "configFile": "fyn-config.js",
+    "out" : "fyn.js",
+    "paths": {
+      "dropboxchooser": "empty:"
+    }
+  }
+}

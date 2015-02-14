@@ -1,0 +1,210 @@
+@charset "UTF-8";
+
+@import "modular-scale";
+
+@import "var/settings";
+@import "gumby/sass/var/lists";
+@import "gumby/sass/var/icons/entypo";
+
+
+@import "compass";
+@import "compass/reset";
+
+@import "gumby/sass/functions/all";
+
+@import "vendor/normalize";
+
+@import "gumby/sass/base";
+@import "fonts";
+@import "gumby/sass/typography";
+@import "gumby/sass/grid";
+
+//@import "gumby/sass/ui/all";
+//@import "gumby/sass/ui/navbar";
+
+@import "gumby/sass/shame";
+
+// Your custom SCSS should be written here...
+
+.ScrollSceneIndicators {
+  z-index: 1000 !important;
+}
+.content {
+  padding: 0 1.125em;
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  background: none;
+  position: absolute;
+  padding-bottom: 1em;
+  padding-top: 1.2em;
+  width: 100%;
+  min-height: 70px;
+  z-index: 999;
+  top: 0;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+
+  .logo {
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 200px;
+    position: absolute;
+    top: 20px;
+  }
+
+  @include clearfix;
+
+  nav {
+    height: 0;
+    overflow: hidden;
+    margin-top: 40px;
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 100%;
+    -webkit-transition: height 0.2s;
+    -moz-transition: height 0.2s;
+    transition: height 0.2s;
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    ul {
+      margin-top: 0.625em;
+      margin-bottom: 0;
+
+      li {
+        display: block;
+        font-family: "ProximaSemiBold";
+        font-weight: normal;
+        text-transform: uppercase;
+      }
+    }
+  }
+}
+
+.navbar {
+  position: fixed;
+  padding-bottom: 1.563em;
+  padding-top: 1.500em;
+
+  nav {
+    height: auto;
+    width: 100%;
+    margin-top: 0;
+
+    ul {
+      width: 100%;
+      float: right;
+      margin-right: 0.4em;
+      margin-top: 0;
+      text-align: right;
+
+      li {
+        margin-left: 1em;
+        display: inline-block;
+        -webkit-transition: margin-left 0.3s;
+        -moz-transition: margin-left 0.3s;
+        transition: margin-left 0.3s;
+
+        margin-left: 3em;
+      }
+    }
+  }
+}
+
+.navbar {
+  height: 0;
+  &.show {
+    height: auto;
+  }
+}
+.fyn-intro-section {
+  background-image: url(/fyn/background_sprite.png);
+  background-color: #3e3f44;
+
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .content {
+    height: auto;
+    text-align: center;
+
+    .align {
+      width: 90%;
+    }
+  }
+}
+
+.vertical-align {
+  &:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-left: -0.25em;
+  }
+
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  & > .align {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+
+.fyn-section-a {
+  background-color: #3f42d9;
+  width: 100%;
+  height: 500px;
+}
+
+.fyn-section-b {
+  background-color: #4bd960;
+  width: 100%;
+  height: 500px;
+
+  #fyn-rotator {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 961px;
+    height: 500px;
+    overflow: hidden;
+    z-index: 999;
+    margin-left: -400px;
+    background: transparent url(fyn/Spinner.jpg) no-repeat 0 0;
+  }
+}
+
+.fyn-section-c {
+  background-color: #d9d631;
+  width: 100%;
+  height: 350px;
+}
+
+.fyn-section-d {
+  background-color: #d938ce;
+  width: 100%;
+  height: 300px;
+}
+
+.fyn-footer {
+  background-color: black;
+
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

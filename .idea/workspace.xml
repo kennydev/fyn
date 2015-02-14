@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3801f20-1515-4e61-a3a6-cf9a6fd53a77" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/vendor/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/fonts/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/images/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/javascripts/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/stylesheets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vendor/assets/javascripts/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/vendor/assets/stylesheets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/icons/entypo.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/icons/entypo.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/fonts/icons/entypo.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/facebook.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fyn/gumby_mainlogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fyn/gumby_mainlogo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/fyn/img_silence_demo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ruby-gemset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ruby-version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fyn/_custom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fyn/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fyn/var/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/scripts/amdoptimize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/javascripts/angular/angular-amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fyn/app.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/browser-sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/clean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/scripts/coffee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/crossdomain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/images/css-sprite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/images/css-sprite/css-sprite.mustache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fyn-config.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fyn/fyn-dev.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fyn.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fyn/gumby.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/scripts/handlebars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/old/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/images/imagemin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/old/jade_index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/old/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/styles/libsass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gulp/tasks/scripts/requirejs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/fyn/scroll-magic.coffee" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/angular-requirejs-coffee.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/angular-requirejs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/crossdomain.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/icons/bear.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/icons/circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/icons/square.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/icons/triangle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/icons/weather-snow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/icons/weather-storm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/icons/weather-storm_active.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/icons/weather-storm_hover.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/jade_index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-browserify/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-browserify/controllers/controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-browserify/start-page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs-coffee.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs-coffee/common/directives/form-utils.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs-coffee/common/directives/loading-bar.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs-coffee/main.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs-coffee/test-app.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs-coffee/test-app/livres/livres-cntr.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs-coffee/test-app/livres/livres-srv.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/app.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/bootstrap.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/controllers.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/controllers/livres_controllers.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/controllers/root_controller.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/directives.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/directives/shared/forms_directives.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/directives/shared/loading_bar_directive.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/filters.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/main.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/routes.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/services.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/angular-requirejs/services/livres_services.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/requirejs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/requirejs/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/requirejs/app/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/angular-requirejs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/angular-requirejs/_bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/angular-requirejs/_guthub.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/_custom.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/__base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/_config.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/project/__project.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/project/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/project/_globals.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/project/_helpers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/project/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/project/_reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/project/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/project/icons/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/project/icons/_icons_test.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/__utils.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/_helpers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/_helpers_review.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/_media_queries.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/_system.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/_system_review.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/mixins/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/mixins/_mixins_review.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/mixins/_placeholder.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/base/utils/mixins/_sprites.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/components/__components.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/specifics/__specifics.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/specifics/_main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/vendor/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/vendor/h5bp/_all.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/vendor/h5bp/_helpers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/vendor/h5bp/_main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/docssa/vendor/h5bp/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/produits/livres/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/produits/livres/livreForm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/produits/livres/showLivre.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/grunt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/autoprefixer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/bower.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/clean.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/coffee.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/compass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/connect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/copy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/cssmin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/devUpdate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/grunt-svg2png.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/grunticon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/handlebars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/htmlmin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/imagemin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/jasmine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/jshint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/libsass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/mocha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/requirejs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/rev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/sass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/spritesmith.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/svg2png.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/svgmin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/svgsprite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/uglify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/usemin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/useminPrepare.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/watch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/tasks/wiredep.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/templates/grunticon.hbs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/templates/spritesmith.mustache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/templates/svgsprite_sprite_default.mustache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grunt/templates/svgsprite_variables.mustache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/browser-sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/clean.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/html/jade.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/angular-build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/browserify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/compass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/connect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/deploy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/e2e-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/fonts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/handlebars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/html.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/images.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/jshint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/setWatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/unit-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/revisar/wiredep.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/scripts/coffee.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/styles/libsass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulp/tasks/watch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.grunt.json" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/.htaccess" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/apple-touch-icon-precomposed.png" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/empty.png" afterPath="$PROJECT_DIR$/public/empty.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/images/vendor/.keep" afterPath="$PROJECT_DIR$/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/robots.txt" afterPath="$PROJECT_DIR$/public/robots.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gulp/tasks/styles/rubysass.js" afterPath="$PROJECT_DIR$/lib/gulp/tasks/styles/rubysass.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/Gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/.bowerrc" afterPath="$PROJECT_DIR$/test/.bowerrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.jshintrc" afterPath="$PROJECT_DIR$/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/gulp.json" afterPath="$PROJECT_DIR$/config/gulp.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/index.html" afterPath="$PROJECT_DIR$/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma-unit.js" afterPath="$PROJECT_DIR$/karma-unit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/karma.conf.js" afterPath="$PROJECT_DIR$/test/karma.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/e2e/main.js" afterPath="$PROJECT_DIR$/test/e2e/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/unit/main.js" afterPath="$PROJECT_DIR$/test/unit/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/spec/test.js" afterPath="$PROJECT_DIR$/test/spec/test.js" />
+    </list>
+    <ignored path="boilerplate.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="boilerplate" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="1620">
+              <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="492">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulp.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/gulp.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.375" vertical-offset="735" max-vertical-offset="1245">
+              <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.coffee" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/fyn/app.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="810">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scroll-magic.coffee" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/fyn/scroll-magic.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="960">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/styles/admin/base/project/_fonts.scss" />
+        <option value="$PROJECT_DIR$/app/styles/admin.scss" />
+        <option value="$PROJECT_DIR$/.tmp/styles/admin.css" />
+        <option value="$PROJECT_DIR$/gulp/tasks/watch.js" />
+        <option value="$PROJECT_DIR$/app/scripts/admin-app.coffee" />
+        <option value="$PROJECT_DIR$/app/scripts/admin/layout.coffee" />
+        <option value="$PROJECT_DIR$/app/scripts/admin/configs/initializations.coffee" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/config/gulp2.json" />
+        <option value="$PROJECT_DIR$/gulp/tasks/scripts/coffee.js" />
+        <option value="$PROJECT_DIR$/gulp/tasks/styles/libsass.js" />
+        <option value="$PROJECT_DIR$/.editorconfig" />
+        <option value="$PROJECT_DIR$/app/views/layout/base.html" />
+        <option value="$PROJECT_DIR$/vendor/angular/angular-amd.js" />
+        <option value="$PROJECT_DIR$/app/scripts/admin-config.coffee" />
+        <option value="$PROJECT_DIR$/gulp/tasks/browser-sync.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/views/dashboard.html" />
+        <option value="$PROJECT_DIR$/app/scripts/admin/configs/routes.coffee" />
+        <option value="$PROJECT_DIR$/tmp/bower.json" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/fyn.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/fyn/fyn-dev.scss" />
+        <option value="$PROJECT_DIR$/vendor/bower_components/gumby/sass/ui/_all.scss" />
+        <option value="$PROJECT_DIR$/.ruby-version" />
+        <option value="$PROJECT_DIR$/.ruby-gemset" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/gulp/tasks/styles/rubysass.js" />
+        <option value="$PROJECT_DIR$/config.rb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/fyn/var/_settings.scss" />
+        <option value="$PROJECT_DIR$/node_modules/gulp-ruby-sass/index.js" />
+        <option value="$PROJECT_DIR$/lib/gulp/tasks/styles/libsass.js" />
+        <option value="$PROJECT_DIR$/lib/gulp/test.js" />
+        <option value="$PROJECT_DIR$/lib/gulp/tasks/test.js" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/fyn/_fonts.scss" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/fyn/main.js" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/fyn/main.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/fyn/gumby.init.coffee" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/app/views/index.html" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/fyn/gumby.coffee" />
+        <option value="$PROJECT_DIR$/app/views/demo.html" />
+        <option value="$PROJECT_DIR$/lib/gulp/tasks/browser-sync.js" />
+        <option value="$PROJECT_DIR$/app/views/ui.html" />
+        <option value="$PROJECT_DIR$/vendor/bower_components/ScrollMagic/js/jquery.scrollmagic.js" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/fyn/app.coffee" />
+        <option value="$PROJECT_DIR$/app/views/new.html" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/fyn-config.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/fyn/scroll-magic.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/fyn/_custom.scss" />
+        <option value="$PROJECT_DIR$/config/gulp.json" />
+        <option value="$PROJECT_DIR$/Gulpfile.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <initial>false</initial>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/Gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boilerplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="requirejs.settings.RequirejsSettingsPage" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editorconfig.notification" value="Applied .editorconfig settings" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="js.buildTools.gulp.node_interpreter" value="/usr/local/bin/node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="151" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="153" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="950" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="151" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="153" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="950" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets/vendor" />
+      <recent name="$PROJECT_DIR$/app/assets/images/fyn" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets/fyn" />
+      <recent name="$PROJECT_DIR$/app/assets/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets/fyn" />
+      <recent name="$PROJECT_DIR$/app/assets/images/old" />
+      <recent name="$PROJECT_DIR$/app/assets/javascripts/old" />
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets/old" />
+      <recent name="$PROJECT_DIR$/app/old" />
+    </key>
+  </component>
+  <component name="RemoteSynchronizer">
+    <option name="generalOptions">
+      <GeneralOptions />
+    </option>
+    <option name="logOptions">
+      <LogOptions />
+    </option>
+    <option name="targetMappings">
+      <list>
+        <TargetMappings>
+          <option name="name" value="Default" />
+        </TargetMappings>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gulp.js.server">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="server" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/Gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Gulp.js.server" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3801f20-1515-4e61-a3a6-cf9a6fd53a77" name="Default" comment="" />
+      <created>1405200968075</created>
+      <option name="number" value="Default" />
+      <updated>1405200968075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3275649" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="RemoteSynchronizer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880098" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32880098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/fyn/var/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7012195" vertical-offset="0" max-vertical-offset="2595">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.29166666" vertical-offset="743" max-vertical-offset="1500">
+          <caret line="50" column="49" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/fyn/gumby.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40697673" vertical-offset="0" max-vertical-offset="780">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/vendor/normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6495">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/fyn-config.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/new.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6263048" vertical-offset="1035" max-vertical-offset="1905">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/fyn/_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63414633" vertical-offset="2748" max-vertical-offset="3240">
+          <caret line="204" column="25" selection-start-line="204" selection-start-column="25" selection-end-line="204" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/fyn/app.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="810">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/fyn/scroll-magic.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="960">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/gulp.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.375" vertical-offset="735" max-vertical-offset="1245">
+          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/gulp/tasks/scripts/requirejs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="516">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="1620">
+          <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="516">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

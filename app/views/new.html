@@ -1,0 +1,121 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en" itemscope itemtype="http://schema.org/Product"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+
+	<!-- Use the .htaccess and remove these lines to avoid edge case issues.
+			 More info: h5bp.com/b/378 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Gumby - A Flexible, Responsive CSS Framework - Powered by SASS</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="humans.txt">
+
+	<link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+
+	<!-- Facebook Metadata /-->
+	<meta property="fb:page_id" content="" />
+	<meta property="og:image" content="" />
+	<meta property="og:description" content=""/>
+	<meta property="og:title" content=""/>
+
+	<!-- Google+ Metadata /-->
+	<meta itemprop="name" content="">
+	<meta itemprop="description" content="">
+	<meta itemprop="image" content="">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<!-- We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
+		 However, there is a blank style.css in the css directory should you prefer -->
+	<link rel="stylesheet" href="fyn-dev.css">
+	<!-- <link rel="stylesheet" href="css/style.css"> -->
+
+	<script src="modernizr/modernizr.js"></script>
+</head>
+<body>
+<header id="fyn-navbar" class="navbar fixed hide" id="primary-nav">
+	<div class="content">
+		<h3 class="logo">
+			<a href="/">
+				<img src="/img/gumby_mainlogo.png" gumby-retina />
+				FYN
+			</a>
+		</h3>
+		<nav>
+			<ul class="">
+				<li><a class="active" href="/history/">History</a></li>
+				<li><a href="/store/">Store</a></li>
+				<li><a href="/faq/">Faq</a></li>
+				<li><a href="/contact/">My account</a></li>
+			</ul>
+		</nav>
+	</div>
+	<a href="" class="toggle menu"><span class="icon-menu"></span></a>
+</header>
+
+<section class="fyn-intro-section">
+	<div id="intro-trigger"></div>
+	<article>
+		<div class="content vertical-align" data-fullscreen="">
+			<div id="intro-content" class="align">
+				<h1 class="big">Where form meets future.</h1>
+				<p>Born from passion. A foundation of entrepreneurial spirit. A curiosity for advancement. The relentless urge to move your brand forward.</p>
+				<a href="#" class="scroll-btn" data-goto="[data-target='intro']">
+					<span class="icon-circle-arrow-down"></span>A
+				</a>
+			</div>
+		</div>
+	</article>
+</section>
+
+<section class="fyn-section-a">
+	<article>
+		<div class="content">
+
+		</div>
+	</article>
+</section>
+
+<section class="fyn-section-b">
+	<div id="rotator-trigger"></div>
+	<article>
+		<div class="content">
+			<div id="fyn-rotator"></div>
+		</div>
+	</article>
+</section>
+
+<section class="fyn-section-c">
+	<article>
+		<div class="content">
+
+		</div>
+	</article>
+</section>
+
+<section class="fyn-section-d">
+	<article>
+		<div class="content">
+
+		</div>
+	</article>
+</section>
+
+<section class="fyn-footer">
+	<div id="footer-trigger"></div>
+	<article>
+		<div class="content" data-fullscreen="">
+		</div>
+	</article>
+</section>
+<script gumby-init="false" data-main="fyn-config.js" src="requirejs/require.js"></script>
+</body>
+</html>
